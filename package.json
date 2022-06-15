@@ -1,0 +1,19 @@
+{
+  "name": "cuistoxsf",
+  "version": "1.0.0",
+  "description": "Site de recette en ligne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azeghdoud/cuistoxsf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azeghdoud/cuistoxsf/issues"
+  },
+  "homepage": "https://github.com/Azeghdoud/cuistoxsf#readme"
+}
